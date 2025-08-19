@@ -1,4 +1,4 @@
-- # C Embedded Learning
+# C Embedded Learning
 
 ## Button-Controlled LED Project
 A project to toggle an LED using a button in C.
